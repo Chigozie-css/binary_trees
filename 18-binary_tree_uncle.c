@@ -32,7 +32,8 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node)
  * Return: Pointer to the sibling node, or NULL under the following conditions:
  *         - If node is NULL
  *         - If the parent of node is NULL
- *         - If the node has no siblings (i.e., if it is the only child of its parent)
+ *         - If the node has no siblings
+ *         (i.e., if it is the only child of its parent)
  */
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 {

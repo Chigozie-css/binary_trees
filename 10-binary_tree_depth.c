@@ -4,7 +4,8 @@
  * binary_tree_depth - Measures the depth of a node in a binary tree
  *
  * This function calculates the depth of a given node in a binary tree.
- * The depth is defined as the number of edges from the node to the tree's root.
+ * The depth is defined as the number of edges from
+ * the node to the tree's root.
  *
  * @tree: Pointer to the node to calculate the depth of
  *
